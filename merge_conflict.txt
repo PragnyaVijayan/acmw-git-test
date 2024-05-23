@@ -1,2 +1,2 @@
 hi this is pragnya
-this is a merge conflict
+this is a merge conflict -- remote
